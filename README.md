@@ -7,13 +7,6 @@ First create a new repository in Github by going to Settings->Repositories->New-
 Next, copy this repository to your local computer by opening the github and copying your repository link and then going to terminal and making sure you're at the desired folder to add it. At the terminal use these commands: git status->git clone "repository link".
 Next go to my github and download the zip folder and by using GUI or your cursor you can add them in the folder you created.
 
-## Usage
-You can use this project by going to my Github account and clicking on my project repository and runnning the deployed page. 
-This is how my code looks:
-
-Click here for my Github repository: <a href="https://github.com/ftahira1/Quizz.git">Github</a>
-
-
 ## Credits
 N/A
 
@@ -38,3 +31,17 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+## Usage
+You can use this project by going to my Github account and clicking on my project repository and runnning the deployed page.
+
+Click here for my Github repository: <a href="https://github.com/ftahira1/Quizz.git">Github</a>
+
+This is how my code looks:
+
+<video controls="controls" mute="mute" preload="auto">
+  <source src="./record.mov" type="video/webm" />
+
+Click here for my Github repository: <a href="https://github.com/ftahira1/Quizz.git">Github</a>
+
+
