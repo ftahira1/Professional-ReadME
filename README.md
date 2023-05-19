@@ -42,6 +42,6 @@ This is how my code looks:
 <video controls="controls" mute="mute" preload="auto">
   <source src="./record.mov" type="video/webm" />
 
-Click here for my Github repository: <a href="https://github.com/ftahira1/Quizz.git">Github</a>
+Click here for my Github repository: <a href="https://github.com/ftahira1/Professional-ReadME.git">Github</a>
 
 
